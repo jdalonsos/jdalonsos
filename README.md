@@ -9,6 +9,7 @@
 ## Work Experience 
 
 **Data Scientist and Business Analyst @ Scotiabank Canada**
+
 **Statistics and Econometrics Researcher @ Central Bank of COlombia **
 
 <!--
