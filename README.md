@@ -10,7 +10,7 @@
 
 **Data Scientist and Business Analyst @ Scotiabank Canada**
 
-**Statistics and Econometrics Researcher @ Central Bank of COlombia **
+**Statistics and Econometrics Researcher @ Central Bank of Colombia**
 
 <!--
 **jdalonsos/jdalonsos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
