@@ -8,7 +8,7 @@
 
 ## Work Experience 
 
-**Machine Learnig Engineer - Time Series Forecasting @ Scotiabank Canada**
+**Machine Learnig Engineer - Time Series Forecasting @ Orange**
 
 **Data Scientist and Business Analyst @ Scotiabank Canada**
 
