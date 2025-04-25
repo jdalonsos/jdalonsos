@@ -8,6 +8,8 @@
 
 ## Work Experience 
 
+**Machine Learnig Engineer - Time Series Forecasting @ Scotiabank Canada**
+
 **Data Scientist and Business Analyst @ Scotiabank Canada**
 
 **Statistics and Econometrics Researcher @ Central Bank of Colombia**
