@@ -34,7 +34,7 @@ Tech stack: Python (BeautifulSoup, Pandas), R (Flexdashboard), Web Scraping, Dat
 Let me know if you want to tweak anything! 
 
 
-![Surf](https://github.com/jdalonsos/jdalonsos/tree/main/assets/img/surf.png)
+https://github.com/jdalonsos/jdalonsos/tree/main/assets/img/surf.png
 <!--
 **jdalonsos/jdalonsos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
