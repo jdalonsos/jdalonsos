@@ -26,6 +26,8 @@ https://github.com/jdalonsos/Time_Series_Forecasting
 
 In this notebook, we explore interpretability methods applied to a regression task on electric vehicle specifications. Using a dataset containing technical and performance attributes of electric cars, I aim to understand how different features—such as acceleration, top speed, and battery capacity—influence the predicted price of an electric vehicle. I employ both global and local interpretability techniques. Specifically, I use:  SHAP values, Partial Dependence Plots (PDP), Individual Conditional Expectation (ICE), and Accumulated Local Effects (ALE), to shed light on the decision-making process of machine learning models such as Random Forest. 
 
+https://github.com/jdalonsos/InterpretabilityML
+
 ## Surf Dashboard: Real-Time Sea Conditions for Surfers
 
 This project extracts real-time surf data from Surf-Report using Python web scraping techniques and visualizes the ideal surf conditions through an interactive dashboard built with R (Flexdashboard). It provides:
