@@ -14,7 +14,7 @@
 
 **Statistics and Econometrics Researcher @ Central Bank of Colombia**
 
-# Project
+# Projects
 
 ## Time series Forecasting with Machine Learning
 
