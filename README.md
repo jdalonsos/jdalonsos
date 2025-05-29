@@ -16,6 +16,11 @@
 
 # Project
 
+## Time series Forecasting with Machine Learning
+
+"This is part of my research work at Orange. I used libraries for feature extraction such as tsfresh, Catch22, ROCKET, and TSFEL to forecast time series of multiple frequencies as a supervised machine learning task. During the process, I provided insights into the dependency between lags, the most effective libraries and features, and suitable prediction methods.
+
+
 ## Surf Dashboard: Real-Time Sea Conditions for Surfers
 
 This project extracts real-time surf data from Surf-Report using Python web scraping techniques and visualizes the ideal surf conditions through an interactive dashboard built with R (Flexdashboard). It provides:
