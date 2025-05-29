@@ -20,6 +20,7 @@
 
 "This is part of my research work at Orange. I used libraries for feature extraction such as tsfresh, Catch22, ROCKET, and TSFEL to forecast time series of multiple frequencies as a supervised machine learning task. During the process, I provided insights into the dependency between lags, the most effective libraries and features, and suitable prediction methods.
 
+https://github.com/jdalonsos/Time_Series_Forecasting
 
 ## Surf Dashboard: Real-Time Sea Conditions for Surfers
 
