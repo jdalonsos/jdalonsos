@@ -26,8 +26,7 @@ https://github.com/jdalonsos/Time_Series_Forecasting
 
 Why do some smartphones cost more despite similar specs? Driven by curiosity, I analyzed smartphone pricing using data scraped from an e-commerce site. After rigorous cleaning and insightful visualizations, I uncovered the hidden influence of brand perception alongside technical specifications. This analysis revealed the true dynamics shaping smartphone market prices.
 
-
-
+https://github.com/jdalonsos/Beyond-the-Specs-Decoding-Smartphone-Pricing-Strategies
 
 
 ## Interpretable Machine Learning
