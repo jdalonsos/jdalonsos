@@ -22,6 +22,14 @@ This is part of my research work at Orange. I used libraries for feature extract
 
 https://github.com/jdalonsos/Time_Series_Forecasting
 
+## Beyond the Specs: Decoding Smartphone Pricing Strategies
+
+Why do some smartphones cost more despite similar specs? Driven by curiosity, I analyzed smartphone pricing using data scraped from an e-commerce site. After rigorous cleaning and insightful visualizations, I uncovered the hidden influence of brand perception alongside technical specifications. This analysis revealed the true dynamics shaping smartphone market prices.
+
+
+
+
+
 ## Interpretable Machine Learning
 
 In this notebook, we explore interpretability methods applied to a regression task on electric vehicle specifications. Using a dataset containing technical and performance attributes of electric cars, I aim to understand how different features—such as acceleration, top speed, and battery capacity—influence the predicted price of an electric vehicle. I employ both global and local interpretability techniques. Specifically, I use:  SHAP values, Partial Dependence Plots (PDP), Individual Conditional Expectation (ICE), and Accumulated Local Effects (ALE), to shed light on the decision-making process of machine learning models such as Random Forest. 
