@@ -2,7 +2,7 @@
 ## Data Scientist
 
 ## Educations
-- M.S., Master’s Degree in Data Science, Economic and Financial Statistical Modeling (MoSEF)
+- M.S., Master’s Degree in Data Science, Economic and Financial Statistical Modeling (MoSEF) | Université Paris 1 Panthéon-Sorbonne
 - M.S., Statistics and Machine Learning | Aix Marseille University | Eiffel Excellence Scholarship
 - B.S., Economics, Quantitative Economics | National University of Colombia
 
