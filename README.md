@@ -3,7 +3,7 @@
 
 ## Educations
 - M.S., Master’s Degree in Data Science, Economic and Financial Statistical Modeling (MoSEF) | Université Paris 1 Panthéon-Sorbonne
-- M.S., Statistics and Machine Learning | Aix Marseille University | Eiffel Excellence Scholarship
+- M.S., Statistics and Machine Learning | Aix Marseille University 
 - B.S., Economics, Quantitative Economics | National University of Colombia
 
 ## Work Experience 
